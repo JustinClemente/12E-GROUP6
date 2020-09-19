@@ -1,4 +1,16 @@
 ion-content {
   background: linear-gradient(to top, #ffafbd, #ffc3a0);
+
+}
+
+h2 {text-align: center; font-size: 30;}
+
+h3 {text-align: center; font-size: 30;}
+
+ p {text-align: center; font-size: 30;}
+
+img {max-width: 100%;
+     height: auto; 
+     
 }
 
